@@ -25,7 +25,7 @@ The van's smart hub: one small board that talks to the battery, chargers and die
 - **Hardware cost:** about £85 in parts; the hub is a Waveshare RP2350 relay board
 - **Software:** MicroPython on the hub and display, a web app, and an Android app
 
-The code is being prepared for release here. It's free for personal and non-commercial use; for commercial use, please get in touch.
+**[Get the code: Camperlux/camperdash](https://github.com/Camperlux/camperdash)**. It's free for personal and non-commercial use; for commercial use, please get in touch.
 
 ### Get in touch
 
